@@ -20,7 +20,7 @@ The University of Cambridge, UK.
 * Network congestion control with backup routes
 * For spacecraft control with minimum thruster constraint see the [journal paper](https://www.tandfonline.com/doi/abs/10.1080/00207179.2013.789608)
 
-# How to cite
+# How to cite (.bib)
 
 ## Conference papers
 ```
