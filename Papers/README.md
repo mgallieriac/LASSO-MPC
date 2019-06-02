@@ -1,7 +1,8 @@
 # How to cite
 
 ## Conference papers
-```@inproceedings{Gallieri2012,
+```
+@inproceedings{Gallieri2012,
   doi = {10.1109/acc.2012.6315171},
   url = {https://doi.org/10.1109/acc.2012.6315171},
   year = {2012},
@@ -13,7 +14,8 @@
 }
 ```
 
-```@inproceedings{Gallieri2013,
+```
+@inproceedings{Gallieri2013,
   doi = {10.23919/ecc.2013.6669549},
   url = {https://doi.org/10.23919/ecc.2013.6669549},
   year = {2013},
@@ -29,7 +31,8 @@
 
 
 ## Journal paper
-```@article{Hartley2013,
+```
+@article{Hartley2013,
   doi = {10.1080/00207179.2013.789608},
   url = {https://doi.org/10.1080/00207179.2013.789608},
   year = {2013},
