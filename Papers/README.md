@@ -27,7 +27,31 @@
 }
 ```
 
+```
+@inproceedings{Gallieri2013,
+  doi = {10.1109/cdc.2013.6761015},
+  url = {https://doi.org/10.1109/cdc.2013.6761015},
+  year = {2013},
+  month = dec,
+  publisher = {{IEEE}},
+  author = {Marco Gallieri and Jan M. Maciejowski},
+  title = {Soft-constrained $\ell_{asso}$-{MPC} for robust {LTI} tracking: Enlarged feasible region and an {ISS} gain estimate},
+  booktitle = {52nd {IEEE} Conference on Decision and Control}
+}
+```
 
+``` 
+@inproceedings{Gallieri2015,
+  doi = {10.1109/ecc.2015.7330598},
+  url = {https://doi.org/10.1109/ecc.2015.7330598},
+  year = {2015},
+  month = jul,
+  publisher = {{IEEE}},
+  author = {Marco Gallieri and Jan M. Maciejowski},
+  title = {Model predictive control with prioritised actuators},
+  booktitle = {2015 European Control Conference ({ECC})}
+}
+```
 
 
 ## Journal paper
