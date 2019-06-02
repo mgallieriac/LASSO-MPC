@@ -1,9 +1,9 @@
-#LASSO-MPC
+# LASSO-MPC
 Publications, Slides and PhD Thesis (2014) on the use of L1-Regularised Least Squares in Model Predictive Control. 
 
 The University of Cambridge, UK.
 
-##Content
+## Content
 * **Papers** All conference publications.
 * **Slides** Some presentations given through the years.
 * **Thesis** A preprint of the PhD thesis, defended in 2014. For final version see the 2016 [Springer book](https://www.springer.com/de/book/9783319279619).
