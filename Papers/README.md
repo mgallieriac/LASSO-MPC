@@ -22,7 +22,7 @@
   month = jul,
   publisher = {{IEEE}},
   author = {Marco Gallieri and Jan M. Maciejowski},
-  title = {Stabilising terminal cost and terminal controller for$\ell_{asso}$-{MPC}: enhanced optimality and region of attraction},
+  title = {Stabilising terminal cost and terminal controller for $\ell_{asso}$-{MPC}: enhanced optimality and region of attraction},
   booktitle = {2013 European Control Conference ({ECC})}
 }
 ```
